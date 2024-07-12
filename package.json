@@ -1,0 +1,25 @@
+{
+  "name": "myportojwd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RidhuanDEV/JuniorWebDeveloper.git"
+  },
+  "keywords": [
+    "JWD"
+  ],
+  "author": "Ridhuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RidhuanDEV/JuniorWebDeveloper/issues"
+  },
+  "homepage": "https://github.com/RidhuanDEV/JuniorWebDeveloper#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
