@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RidhuanDEV/JuniorWebDeveloper.git"
+    "url": "git+https://github.com/RidhuanDEV/JWD.git"
   },
   "keywords": [
     "JWD"
@@ -16,9 +16,9 @@
   "author": "Ridhuan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RidhuanDEV/JuniorWebDeveloper/issues"
+    "url": "https://github.com/RidhuanDEV/JWD/issues"
   },
-  "homepage": "https://github.com/RidhuanDEV/JuniorWebDeveloper#readme",
+  "homepage": "https://github.com/RidhuanDEV/JWD#readme",
   "dependencies": {
     "bootstrap": "^5.3.3"
   }
